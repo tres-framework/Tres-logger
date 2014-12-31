@@ -1,0 +1,31 @@
+{
+    "name": "Tres logger",
+    "version": "0.1",
+    "website": "http://tresframework.com",
+    "documentation": "",
+    "description_short": "Used for easy file logging.",
+    
+    "description_long": [
+        "This is the file logging package used for Tres Framework. This ",
+        "is a stand-alone package, which means that it can also be used ",
+        "without the framework.\n\n"
+    ],
+    
+    "dependencies": {
+        "php": ">= 5.4"
+    },
+    
+    "contributors": [{
+        "name": "Julian Richen",
+        "nickname": "FireDart",
+        "role": "creator",
+        "email": "julian@tresframework.com",
+        "github": "https://github.com/firedart/"
+    }, {
+        "name": "Ped Zed",
+        "nickname": "pedzed",
+        "role": "maintainer",
+        "email": "ped@tresframework.com",
+        "github": "https://github.com/pedzed/"
+    }]
+}
